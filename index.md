@@ -1,9 +1,25 @@
-# Isso é um título H1, o maior
+# Atividade de markdown
 
+## Teste de títulos
+---
+## Isso é um título H2, o segundo maior
 ###### Isso é um título H6, o menor disponível
 
-![Mohammed Salah levantando o troféu da Premier League](https://c8.alamy.com/comp/3BDPTDW/liverpools-mohamed-salah-celebrates-with-the-premier-league-trophy-after-the-premier-league-match-at-anfield-liverpool-picture-date-sunday-may-25-2025-3BDPTDW.jpg)
 
+## Teste de adição de imagens
+---
+![Logo do SENAI](https://sp.senai.br/images/senai.jpg)
+
+
+## Teste de adição de blocos de códigos
+---
 ```python
 print('Olá mundo!')
 ```
+
+
+## Teste de criação de listas
+---
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
